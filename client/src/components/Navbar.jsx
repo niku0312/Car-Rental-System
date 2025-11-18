@@ -101,7 +101,7 @@ const Navbar = () => {
       <Link to='/'>
         <Motion.img
           whileHover={{ scale: 1.05 }}
-          src={assets.logo}
+          src={assets.new_logo}
           alt='logo'
           className='h-8'
         />

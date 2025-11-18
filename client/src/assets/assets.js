@@ -1,6 +1,7 @@
 import logo from "./logo.svg";
 import blue_logo from "./logo_car_rental.svg";
-// import wheel from "./wheel_text.svg"
+// import wheel from "./wheel_text.svg";
+import new_logo from "./new_logo.svg";
 import gmail_logo from "./gmail_logo.svg";
 import facebook_logo from "./facebook_logo.svg";
 import instagram_logo from "./instagram_logo.svg";
@@ -88,7 +89,8 @@ export const assets = {
   car_image3,
   car_image4,
   // wheel,
-  blue_logo
+  blue_logo,
+  new_logo
 };
 
 export const menuLinks = [
